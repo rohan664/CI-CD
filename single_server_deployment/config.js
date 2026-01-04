@@ -1,1 +1,1 @@
-JWT_ACCESS_TOKEN = "jjhrgrvvbvvbcnbcecncn.cmncekkjke"
+JWT_ACCESS_TOKEN = ""
